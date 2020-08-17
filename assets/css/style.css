@@ -31,3 +31,14 @@ body {
 .barra2 {
     width: 120px;
 }
+
+
+.container2 {
+    padding: 100px;
+}
+
+.barra4 {
+    width: 120px;
+    height: 10px;
+    size: 1cm;
+}
